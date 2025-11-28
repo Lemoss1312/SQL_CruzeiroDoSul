@@ -6,15 +6,15 @@ Esse repositório faz parte da atividade prática da materia MODELAGEM DE BANCO 
 O mini-mundo representa um sistema simples de gestão vendas de uma loja de skate.
 O banco é composto pelas seguintes entidades:
 
-Cliente
-Unidade (loja)
-Vendedor
-Produto
-Pedido
-ItemPedido
-Frete
-Estoque
-MetaVendedor
+Cliente;
+Unidade (loja);
+Vendedor;
+Produto;
+Pedido;
+ItemPedido;
+Frete;
+Estoque;
+MetaVendedor;
 (Cada tabela possui suas chaves primárias e estrangeiras conforme o modelo lógico).
 
 🛠 Tecnologias Utilizadas
