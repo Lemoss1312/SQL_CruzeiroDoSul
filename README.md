@@ -19,8 +19,8 @@ MetaVendedor;
 
 🛠 Tecnologias Utilizadas
 
-- PGAdmin (mas funciona em qualquer SGBD com pequenas alterações)
-- SQL padrão (DDL + DML)
+- DB criado em PGADMIN (mas funciona em qualquer SGBD com pequenas alterações)
+- Scripts SQL padrão para implementação das tables, inserts, updates etc (DDL + DML)
 - GitHub para versionamento
 
 
