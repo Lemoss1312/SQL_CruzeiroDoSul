@@ -19,7 +19,7 @@ MetaVendedor;
 
 🛠 Tecnologias Utilizadas
 
-- SQLite Studio (mas funciona em qualquer SGBD com pequenas alterações)
+- PGAdmin (mas funciona em qualquer SGBD com pequenas alterações)
 - SQL padrão (DDL + DML)
 - GitHub para versionamento
 
